@@ -1,3 +1,5 @@
 .idea
-spring-boot-angularjs-yeoman.iml
-target
+back-end/back-end.iml
+back-end/target
+front-end/front-end.iml
+.DS_Store
