@@ -1,2 +1,3 @@
-.idea/
+.idea
 spring-boot-angularjs-yeoman.iml
+target
